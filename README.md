@@ -1,6 +1,6 @@
-#MOMO VENDING MACHINE PROJECT
+# MOMO VENDING MACHINE PROJECT
 
-##Introduction:
+## Introduction:
 
 This is a Java console code project to simulate interaction at a vending machine. 
 Beside that you need to integrate the promotion scheme as following:
